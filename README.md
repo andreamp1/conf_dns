@@ -1,4 +1,4 @@
-#Configuración zona#
+Configuración zona
 
 Para realizar la configuración de una nueva zona creamos un archivo llamado db.example.com. 
 Rellenamos el archivo con los datos que queremos que tenga esta zona como el nameserver a utilizar su SOA y su ip. 
